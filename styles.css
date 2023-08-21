@@ -1,0 +1,27 @@
+body {
+  background: #045068;
+  color: #fff;
+}
+.wrapper {
+  max-width: 90%;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  margin: 30px;
+  color: #528899;
+}
+table {
+  margin-top: 30px;
+}
+.display-none {
+  display: none;
+}
+tbody td {
+  text-transform: uppercase;
+}
+footer {
+  text-align: center;
+  margin: 30px;
+  color: #528899;
+}
